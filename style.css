@@ -176,7 +176,11 @@ color:black;
  .col-md-3{
  width:25%;
  }
-  .row .col-md-12{
+  .row{
  width:100%;
+ }
+ .col-md-12{
+  width:100px;
+  height:100px;
  }
 }
